@@ -2,9 +2,8 @@
 
 Boosting Code Summarization by Embedding Code Structures. This codebase include PBM module with baseline CodeBERT model.
 
-
-#train
+# train
 bash ccsd.sh
 
-#test
+# test
 bash ccsd_test.sh
